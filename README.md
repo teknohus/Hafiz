@@ -26,7 +26,9 @@
   
 
 <a href="https://www.linkedin.com/in/hafiz-zahid-usman-685722200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-muzamal-916b4b183" height="30" width="40" style="padding-right:200px"></a>
-  <a href="https://www.upwork.com/freelancers/~01c8bcf4a642889dd8" target="blank"><img style= margin-top:6px align="center" src="https://user-images.githubusercontent.com/98559033/203159271-82a7c7a1-cd9c-4bb1-9770-0feb26b667b8.png" alt="rana-muzamal-916b4b183" height="40" width="40" /></a>
+  <span style = "margin-top: 6px;">
+  <a href="https://www.upwork.com/freelancers/~01c8bcf4a642889dd8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98559033/203159271-82a7c7a1-cd9c-4bb1-9770-0feb26b667b8.png" alt="rana-muzamal-916b4b183" height="40" width="40" /></a>
+    </span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
