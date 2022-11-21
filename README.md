@@ -25,8 +25,8 @@
   
   
 
-<a href="https://www.linkedin.com/in/hafiz-zahid-usman-685722200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-muzamal-916b4b183" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01c8bcf4a642889dd8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-muzamal-916b4b183" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafiz-zahid-usman-685722200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-muzamal-916b4b183" height="30" width="40" style="padding-right:10px"></a>
+  <a href="https://www.upwork.com/freelancers/~01c8bcf4a642889dd8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98559033/203157779-cd933763-6a98-453e-b7d2-3115c4108201.png" alt="rana-muzamal-916b4b183" height="45" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
