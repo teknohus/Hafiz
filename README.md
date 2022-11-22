@@ -13,13 +13,9 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript and ReactJS**
 
-- 📫 How to reach me **HAFIZ@TEKNOHUS.com**
+- 📫 How to reach me **hafiz@teknohus.com**
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-- ⚡ Fun fact **I am Funny**
--->
+- ⚡ Fun fact **I would say I am the most passionate about working with people and teaching others new skills and competencies, because I find these actions really rewarding**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
